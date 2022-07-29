@@ -1,0 +1,7 @@
+executorConfig:
+  poolSize: 5
+
+swagger:
+  resourcePackage: resources
+  title: Sample Application
+  description : Sample Application for learning purposes

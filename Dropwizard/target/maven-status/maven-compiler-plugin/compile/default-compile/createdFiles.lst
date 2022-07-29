@@ -1,0 +1,5 @@
+SampleApplication.class
+models\SampleModel.class
+resources\SampleResource.class
+bootstrap\SampleConfiguration.class
+bootstrap\SampleHealthCheck.class
